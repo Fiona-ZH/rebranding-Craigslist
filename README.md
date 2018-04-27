@@ -1,5 +1,10 @@
 # Rebranding Craigslist
 
+![screenshot](/screenshot.png)
+
+* Style guide: Logo, Colour Palette, Typography
+* Branding Story
+
 ## Summary
 This is a redesign of the logo and style guide of a popular website for classified ads: Craigslist.
 
